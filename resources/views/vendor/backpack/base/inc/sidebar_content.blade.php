@@ -5,3 +5,6 @@
 <li><a href="{{ backpack_url('/customer') }}">
     <i class="fa fa-user"></i> 
     <span>Manage CUstomers</span></a></li>
+
+<li><a href="{{backpack_url('page') }}"><i class="fa fa-file-o"></i> <span>Pages</span></a></li>
+
